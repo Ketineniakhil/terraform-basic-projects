@@ -18,7 +18,7 @@ This project automates the provisioning of AWS resources using Terraform. The re
 - Configure **AWS CLI**:  
   ```sh
   aws configure
-
+  ```
 
 🔧 Usage
 
@@ -27,17 +27,17 @@ Initialize Terraform:
 terraform init
 ```
 Plan Deployment:
-
+```sh
 terraform plan
-
+ ```
 Apply Changes:
-
+```sh
 terraform apply -auto-approve
-
+ ```
 Destroy Resources:
-
+```sh
 terraform destroy -auto-approve
-
+ ```
 📌 Notes
 
 The EC2 instance uses the latest Amazon Linux 2 AMI.
