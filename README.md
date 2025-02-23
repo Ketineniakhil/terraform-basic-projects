@@ -21,9 +21,9 @@ This project automates the provisioning of AWS resources using Terraform. The re
 
 
 🔧 Usage
-'''sh
-Initialize Terraform:
 
+Initialize Terraform:
+'''sh
 terraform init
 
 Plan Deployment:
