@@ -23,15 +23,19 @@ This project automates the provisioning of AWS resources using Terraform. The re
 🔧 Usage
 
 Initialize Terraform
+```sh
 terraform init
 
 Plan Deployment
+```sh
 terraform plan
 
 Apply Changes
+```sh
 terraform apply -auto-approve
 
 Destroy Resources
+```sh
 terraform destroy -auto-approve
 
 📌 Notes
