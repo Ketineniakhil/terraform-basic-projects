@@ -11,11 +11,12 @@ This project automates the provisioning of AWS resources using Terraform. The re
 ## 📁 Project Structure
 
 📂 terraform-project 
-├── main.tf # Terraform configuration for AWS resources 
-├── variables.tf # Variables for Terraform (if needed) 
-├── outputs.tf # Outputs of Terraform resources 
-├── README.md # Project documentation 
-├── .gitignore # Ignore Terraform state files and backups
+
+├── main.tf # Terraform configuration for AWS resources             
+├── variables.tf # Variables for Terraform (if needed)              
+├── outputs.tf # Outputs of Terraform resources              
+├── README.md # Project documentation                         
+├── .gitignore # Ignore Terraform state files and backups     
 
 
 ## ⚙️ Prerequisites
