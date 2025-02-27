@@ -12,7 +12,7 @@ This project automates the provisioning of AWS resources using Terraform. The re
 
 📂 terraform-project 
 
-├── main.tf # Terraform configuration for AWS resources             
+├── main.tf     
 ├── variables.tf             
 ├── outputs.tf               
 ├── README.md                         
